@@ -1,0 +1,126 @@
+****************************
+			   *	
+ETH32 SKULLTRAIL - BY st0ne*		   
+			   *
+Aimbots.Net and Rabbnix	   *		   
+****************************
+
+NON - PUNKBUSTER VERSION
+
+Compatible with ET 2.55/ 2.56/ 2.60/ 2.60b patches and works on the following mods:
+
+NO Authorization / Portal Registration Needed, This code was removed as nixcoders site is no longer active. 
+
+*ETMAIN
+*SHRUBET
+*ETPUB
+*ETPRO
+*JAYMOD (see offsets.ini for supported builds)
+*NOQUARTER (see offsets.ini for supported builds)
+*TCE
+
+Installation Notes:
+
+1.) Extract contents from the hack folder and create a NEW folder outside the ET Root Directory.
+
+2.) Move the library included named "pthreadVCE2.dll" to C:\WINDOWS\system path.
+
+3.) Now move The pk3 file called "eth32_st.pk3" and place inside your ETMAIN folder. 
+
+4.) Point the eth32.exe loader to ET.exe and Go Rage All! :)
+
+5.) The Gui Menu to tweak settings is F9 as always! :) 
+
+Source is INCLUDED for developer's needs as i won't take time to occupy the public release of this project anymore.
+
+**Note** Anti-Cheat Code like punkbuster stuff was deleted not to mention the Built - In Screenshot Removal Utility for punkbuster images is gone from both the hack and source files included!
+
+These features will remain in the PRIVATE version.
+
+This hack is a MIRROR PORT to Windows Platform of the original ETH32nix Salvation Release which is availible at rabbnix.com among other great Linux resources can be found there and was built using Visual Studios C++ Express Edition 2008 software and was originally based on 0.9/0.98 Sources and the original ETH32nix Overdose Source as well.
+
+
+ETH32 Features to name a couple that are added:
+
+Aimbot:
+
+Autoaim
+Autoshoot
+Aimvecs (With body and head size adjusting)
+Aim Key mapping (ex. bind MOUSE1 +aim)
+Trigger Bot
+Lock Target
+Valid Attack
+AutoCrouch
+Multiple Trace Priorities for Body and Head Sections (Note: Xtrace is not hybrid, it's relies heavily on your CPU energy!)
+Auto Aimpoints For Each Trace Style Already Defined
+Bullet Size (Experment Test, Re-Added)
+Human/Stealth Aiming System
+RifleBot 
+Preaim/Preshoot Predict
+Auto Weapon Delay
+Sniper hack w/ Blackout Removed + delay support
+Autovecs (Based on Damage Falloff + Distance Based)
+
+
+Predictions:
+
+AutoBot predict (unique predict value for both BOTS and Players) 
+Self Predict options
+
+Cameras:
+
+Mortar
+RifleNade Launcher
+Panzerfaust
+SpyCam
+Target Cam
+Satchel
+Enemy Cam
+
+Visuals:
+Wallhack
+Chams (Seperate styles for both Enemy and team Models, Weapon Chams)
+Player Radar
+Name Esp
+Bounding Box ESP
+Class Icons (2 styles to choose, requires vid_restart to callibrate them)
+Custom Models (Reaper Head + hitler)
+Banner w/ Stats Tracking  
+Explosives ESP (OnScreen Radar also)
+No Foliage Removal (requires vid_restart to toggle)
+HUD Bars for GUI (including Reload, stamina, and recharge)
+
+Note* Gui Style by default is the salvation's theme, Black ;) 
+it can be changed to whatever you may like. 
+
+
+Miscellaneous:
+AutoVote
+Auto Complaint
+Anti-Team Kill
+TimeNudge + Snaps Unlocker 
+Name Changer (Take a list from real generated player names thru a file or random)
+ETpro Spoof OS (WIN32=ON Linux=OFF)
+Random ETpro Guid 
+Random JAYMAC
+UnBan Key (renews your etkey with pb_cdkeyreg command, then changes guid and also name before attempting to reconnect again)
+Killspam
+Killsounds (ETH Engine Based)
+Cvar prefix change (eth_set can be set, restart will be needed though)
+
+Known Issues:
+
+The killsounds will result in a CRASH on some etpub servers that are unpure configured, use them with extra CAUTION 
+sv_pure when set to 1, i found no issues there with this behavior so long story short server must be PURE set
+
+Credits/Shoutouts:
+ETH32/Linux Developers
+Aimbots.Net
+sir3n ;)
+Rabbnix
+Tulimyrsky
+Couch for that good screenshot bypass conversation :) 
+Mr.Z 
+:tooper
+Koders.Com
